@@ -1,4 +1,6 @@
-
+//Codificado por: sAfOrAs
+//Codigo fuente: Signos del zodiaco
+#include <iostream>
 using namespace std;
 int main()
 {
